@@ -1,0 +1,34 @@
+[
+  {
+    "color": "#F9BDAD",
+    "title": "Turkish Steak",
+    "weight": "165 Grams",
+    "price": "30",
+    "total_item_price": "30",
+    "quantity": "1"
+  },
+  {
+    "color": "#B0EAFD",
+    "title": "Salmon",
+    "weight": "2 serving",
+    "price": "40",
+    "total_item_price": "40",
+    "quantity": "1"
+  },
+  {
+    "color": "#FF9DC2",
+    "title": "Red Juice",
+    "weight": "1 Bottle",
+    "price": "50",
+    "total_item_price": "50",
+    "quantity": "1"
+  },
+  {
+    "color": "#CCB8FF",
+    "title": "Cola",
+    "weight": "1 Bottle",
+    "price": "60",
+    "total_item_price": "60",
+    "quantity": "1"
+  }
+]

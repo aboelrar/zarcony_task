@@ -1,0 +1,11 @@
+[
+  {
+    "addressTitle": "Home Address",
+    "address": "mustafa st.no2",
+    "place": "street x12"
+  },{
+    "addressTitle": "Office Address",
+    "address": "axis istanbul,b2 bloc",
+    "place": "floor2, office ||"
+  }
+]
